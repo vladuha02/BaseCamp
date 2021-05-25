@@ -225,7 +225,7 @@ namespace BaseCamp_.NET
             Console.WriteLine(start_end_array[0] + ", " + start_end_array[1]);
         }
 
-        static void Main(string[] args)
+        static void Main(string[] args) // i love pizza
         {
             Program pr = new Program();
             int[] arr1 = { 4, 46, 23 };
